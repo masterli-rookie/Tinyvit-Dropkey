@@ -3,7 +3,7 @@
 **This repository contains the official implementation for the paper:**  
 > **Enhancing Soil Classification with DropKey-Augmented Lightweight Vision Transformers**  
 > *Submitted to The Visual Computer (Submission ID: 78024a60-...)*  
-> **Authors**: [Yan ZHANG,Rui-Feng-Li,Feng-Tao-LIU/Team], [Affiliation]  
+> **Authors**: [Yan ZHANG,Rui-Feng-Li,Feng-Tao-LIU/Team], [Guangxi Key Laboratory of Geotechnical Mechanics an Engineering, Guilin University of Technology, Guilin 541004, China]  
 > [![DOI]()]
 
 📢 **Citation Request**:  
@@ -11,7 +11,7 @@ If you use this code or results in your research, please cite our paper:
 ```bibtex
 @article{your2024enhancing,
   title={Enhancing Soil Classification with DropKey-Augmented Lightweight Vision Transformers},
-  author={Your Name and Coauthors},
+  author={Yan ZHANG,Rui-Feng-Li,Feng-Tao-LIU/Team},
   journal={Submitted to The Visual Computer},
   year={2025},
   note={Submission ID: 78024a60-...}
@@ -45,7 +45,7 @@ data/
     ├── class2/
     └── ...
 3.Run Modles:
-The base model runs directly :train.ipynb
+The base model runs directly :train.ipynb   (you can also use [filename].py  Running model with command at terminal:python train.py )
 Full model run :Aug+DropKey.ipynb
 
 📊 Key Features
