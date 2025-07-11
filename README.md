@@ -4,7 +4,7 @@
 > **Enhancing Soil Classification with DropKey-Augmented Lightweight Vision Transformers**  
 > *Submitted to The Visual Computer (Submission ID: 78024a60-39b7-45c3-b0a7-031140df5f80)*  
 > **Authors**: [Yan ZHANG,Rui-Feng-Li,Feng-Tao-LIU/Team], [Guangxi Key Laboratory of Geotechnical Mechanics an Engineering, Guilin University of Technology, Guilin 541004, China]  
-> [![DOI](https://doi.org/10.6084/m9.figshare.29550056)]
+> (https://doi.org/10.6084/m9.figshare.29550056)]
 
 📢 **Citation Request**:  
 If you use this code or results in your research, please cite our paper:
