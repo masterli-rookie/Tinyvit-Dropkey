@@ -14,7 +14,7 @@ If you use this code or results in your research, please cite our paper:
   author={Yan ZHANG,Rui-Feng-Li,Feng-Tao-LIU/Team},
   journal={Submitted to The Visual Computer},
   year={2025},
-  note={Submission ID: 78024a60-...}
+  note={Submission ID: 78024a60-39b7-45c3-b0a7-031140df5f80}
 }
 
 
