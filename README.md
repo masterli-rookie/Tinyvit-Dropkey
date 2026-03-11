@@ -2,7 +2,7 @@
 
 **This repository contains the official implementation for the paper:**  
 > **Enhancing Soil Classification with DropKey-Augmented Lightweight Vision Transformers**  
-> *Submitted to Journal of Computer Science and Technology (Submission ID: IDJCST-2511-16117)*  
+> *Submitted to Concurrency and Computation: Practice and Experience (Submission ID: 1ce94559-6d30-4fe7-aacb-4b5ef8bb7429)*  
 > **Authors**: [Yan ZHANG,Rui-Feng-Li,Lantao-Huang,Feng-Tao-LIU/Team], [Guangxi Key Laboratory of Geotechnical Mechanics an Engineering, Guilin University of Technology, Guilin 541004, China]  
 > (https://doi.org/10.6084/m9.figshare.29550056)
 
@@ -12,9 +12,8 @@ If you use this code or results in your research, please cite our paper:
 @article{your2024enhancing,
   title={Enhancing Soil Classification with DropKey-Augmented Lightweight Vision Transformers},
   author={Yan ZHANG,Rui-Feng-Li,Lantao-Huang,Feng-Tao-LIU/Team},
-  journal={Submitted to The Visual Computer},
   year={2025},
-  note={Submission ID: IDJCST-2511-16117}
+
 }
 
 
